@@ -19,6 +19,7 @@ La aplicación permite recibir notificaciones estando cerrada, y al hacer click 
 ![This is an alt text.](/assets/readme/2_notificacionappcerrada.png ).
 
 Tambien puede recibir la notificación con la aplicación abierta.
+
 ![](/assets/readme/3_notificacionLocal.png)
 
 ### Detalle Notificación
@@ -37,6 +38,7 @@ Una ves leido, se muestra con el texto mas claro.
 
 ### Eliminar notificación individual
 Al ingresar dentro del mensaje se permite eliminarlo de forma individual.
+
 ![This is an alt text.](/assets/readme/7_eliminacionNotif.png )
 
 ### Eliminar todas las notificaciones
